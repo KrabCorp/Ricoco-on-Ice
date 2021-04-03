@@ -1,0 +1,18 @@
+{
+  "preset": "Default",
+  "closed": false,
+  "remembered": {
+    "Default": {
+      "0": {
+        "smoothing": true
+      }
+    }
+  },
+  "folders": {
+    "Player": {
+      "preset": "Default",
+      "closed": false,
+      "folders": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Atlas_00000":
+{
+	"frame": {"x":0,"y":0,"w":1976,"h":1433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1976,"h":1433},
+	"sourceSize": {"w":1976,"h":1433}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.0.35450",
+	"image": "IsoAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

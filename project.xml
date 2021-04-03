@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta version="2.0.0" package="com.isartdigital.sokoban" title="Structure Haxe OpenFL" company="NewProject"/>
+	<app file="RicocoOnIce" path="bin" main="com.isartdigital.sokoban.Main"/>
+	
+	<source path="src"/>
+	<haxelib name="openfl"/>
+	<haxelib name="actuate"/>
+	<haxelib name="zame-particles"/>
+	<haxelib name="dat.GUI"/>
+	<haxelib name="OpenFl-Animate-Atlas-Player"/>
+	
+	<assets embed="false" path="assets"/>
+	<assets embed="true" path="assets/config.json"/>
+	<assets embed="true" path="assets/sounds/sounds.json"/>
+	<assets embed="false" path="assets/levels/leveldesign.json"/>
+	
+	<assets rename="" embed="false" path="assets/images/atlas"/>
+
+	<library preload="true" path="assets/libraries/loader.swf"/>
+	<library preload="false" path="assets/libraries/ui.swf"/>
+	
+	<library preload="false" path="assets/libraries/assets.swf"/>
+	<library preload="false" path="assets/libraries/radarAssets.swf"/>
+	<library preload="false" path="assets/libraries/isoAssets.swf"/>
+	
+	<section if="html5">
+		<dependency path="assets/lib/dat.gui.min.js"/>
+	</section>
+	
+	<window orientation="landscape" background="#BFE3FF" fps="60"/>
+	<window hardware="true" anti-aliasing="0" vsync="false" stencil-buffer="true" allow-shaders="true" require-shaders="true" depth-buffer="false"/>
+	
+</project>

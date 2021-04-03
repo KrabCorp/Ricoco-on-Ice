@@ -1,0 +1,28 @@
+{
+	"files" : {
+		"fxs" :{
+			"click"	: {"asset":"click", "volume":1},
+			"iceSteps0"	: {"asset":"snowAndIceSteps0", "volume":1},
+			"iceSteps1"	: {"asset":"snowAndIceSteps1", "volume":1},
+			"iceSteps2"	: {"asset":"snowAndIceSteps2", "volume":1},
+			"iceSteps3"	: {"asset":"snowAndIceSteps3", "volume":1},
+			"snowSteps0"	: {"asset":"snowSteps0", "volume":1},
+			"snowSteps1"	: {"asset":"snowSteps1", "volume":1},
+			"snowSteps2"	: {"asset":"snowSteps2", "volume":1},
+			"snowSteps3"	: {"asset":"snowSteps3", "volume":1},
+			"cart"		: {"asset":"cart", "volume":1}
+		},
+		"musics" :{
+			"world1" : {"asset":"DerpNugget", "volume":1},
+			"iceCaveMusic" : {"asset":"IceCaveMusic", "volume":1},
+			"8bitIceCave" : {"asset":"8BitIceCave", "volume":1},
+			"winJingle" : {"asset":"Win-sound", "volume":1},
+			"winFinal" : {"asset":"victory", "volume":1}
+		}
+	},
+	"volumes" : {
+		"master" : 1,
+		"fxs" : 0.75,
+		"musics" : 0.5
+	}	
+}

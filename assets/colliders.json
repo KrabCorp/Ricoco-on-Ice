@@ -1,0 +1,51 @@
+{
+	"Template_collider": {
+		"mcPoint3": {
+			"type": "Point",
+			"x": -102.6,
+			"y": -1
+		},
+		"mcGlobalBox": {
+			"type": "Circle",
+			"x": 0,
+			"radius": 100,
+			"y": 0
+		},
+		"instance30": {
+			"type": "Ellipse",
+			"x": 0,
+			"height": 200,
+			"y": -100,
+			"width": 400
+		},
+		"mcPoint2": {
+			"type": "Point",
+			"x": 64.6,
+			"y": 71
+		},
+		"mcPoint1": {
+			"type": "Point",
+			"x": 68.6,
+			"y": -73
+		},
+		"mcPoint0": {
+			"type": "Point",
+			"x": 0,
+			"y": 0
+		}
+	},
+	"Astronaut_collider": {
+		"instance38": {
+			"type": "Rectangle",
+			"x": -96.7,
+			"height": 401.1,
+			"y": -200.55,
+			"width": 193.8
+		},
+		"mcPoint0": {
+			"type": "Point",
+			"x": 0,
+			"y": 0
+		}
+	}
+}

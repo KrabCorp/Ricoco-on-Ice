@@ -1,0 +1,166 @@
+
+{
+	"TITLE":
+	{
+	"en":"Ricoco On Ice",
+	"fr":"Ricoco On Ice"
+	},
+	"LABEL_PLAY":
+	{
+	"en":"Play",
+	"fr":"Jouer"
+	},
+	"LABEL_MENU":
+	{
+	"en":"Menu",
+	"fr":"Menu"
+	},
+	"LABEL_RETRY":
+	{
+	"en":"Retry",
+	"fr":"Réessayer"
+	},
+	"LABEL_LEVEL":
+	{
+	"en":"Level",
+	"fr":"Niveau"
+	},
+	"LABEL_BACK":
+	{
+	"en":"Back",
+	"fr":"Retour"
+	},
+	"LABEL_NEXT":
+	{
+	"en":"Next",
+	"fr":"Suivant"
+	},
+	"LABEL_SKINS":
+	{
+	"en":"Skins",
+	"fr":"Skins"
+	},
+	"HELP_HOWTOPLAY1":
+	{
+	"en":"Pushing an ice block makes it slide \n until it meets an obstacle !",
+	"fr":"Pousser un bloc de glace le fait glisser \n jusqu'a ce qu'il rencontre un obstacle !"
+	},
+	"HELP_HOWTOPLAY2":
+	{
+	"en":"Pushing a cart on rails \n makes it move forward one cell !",
+	"fr":"Pousser un wagon sur les rails \n le fait avancer d'une cellule !"
+	},
+	
+	"HELP_HOWTOPLAY3":
+	{
+	"en":"If a hole is in the path of the ice block, \n it will fall into it and the hole will fill in, \n allowing the player to move over it!",
+	"fr":"Si un trou se trouve sur la trajectoire du bloc de glace, \n il tombera dedans et le trou se comblera, \n permettant au joueur de se deplacer dessus !"
+	},
+	"HELP_HOWTOPLAY4":
+	{
+	"en":"Fill all the holes in the ice floe in a \n minimum of steps to achieve victory!",
+	"fr":"Comblez tout les trous de la banquise en un \n minimum de pas pour remporter la victoire !"
+	},
+	"HELP_HOWTOPLAY5":
+	{
+	"en":"Move",
+	"fr":"Se deplacer"
+	},
+	"HELP_HOWTOPLAY6":
+	{
+	"en":"A pushed rail block moves on one cell at a time and only in the axis on which the player is pushing.",
+	"fr":"Un bloc sur rail poussé se déplace sur une seule cellule à la fois et seulement dans l’axe dans lequel le joueur pousse."
+	},
+	"HELP_HOWTOPLAY7":
+	{
+	"en":"A hole is considered an obstacle for the player until it has been filled by an ice block.",
+	"fr":"Un trou est considéré comme un obstacle pour le joueur tant qu’il n’a pas été comblé par un bloc de glace."
+	},
+	"HELP_HOWTOPLAY8":
+	{
+	"en":"Indeed, once an ice block arrives on one of the targets, it immediately falls into it his trajectory is stopped, ",
+	"fr":"En effet, une fois qu’un bloc de glace arrive sur une des cibles, il y tombe immédiatement dedans (sa trajectoire est stoppée), "
+	},
+	"HELP_HOWTOPLAY9":
+	{
+	"en":"and the target cell then becomes a normal cell on which the player or a block can move.",
+	"fr":"et la cellule cible devient alors une cellule normale sur laquelle le joueur ou un bloc peut s’y déplacer."
+	},
+	"WINSCREEN_FINAL_TITLE":
+	{
+	"en":"You Win !",
+	"fr":"Vous avez gagné !"
+	},
+	"WIN_TEXT":
+	{
+	"en":"CONGRATULATION !! \n You have completed all the levels ! \n Now try to get all the stars !",
+	"fr":"FELICITATION !!\n Vous avez terminé tout les niveaux ! \n Essayez maintenant d'obtenir toutes les étoiles !"
+	},
+	"LEVELSCREEN_MESSAGE":
+	{
+	"en":"Level Selection",
+	"fr":"Selection de niveau"
+	},
+	"LOGIN_TITLE":
+	{
+	"en":"Enter your username",
+	"fr":"Entrez votre pseudo"
+	},
+	"WINSCREEN_TITLE":
+	{
+	"en":"You Win !",
+	"fr":"Vous avez gagné !"
+	},
+	"LABEL_HELP":
+	{
+	"en":"Help",
+	"fr":"Aide"
+	},
+	"LABEL_HIGHSCORE":
+	{
+	"en":"Ranking",
+	"fr":"Classement"
+	},
+	"LABEL_SOUND":
+	{
+	"en":"Sound",
+	"fr":"Musique"
+	},
+	"LEVELSCREEN_UNLOCK":
+	{
+	"en":"Unlock",
+	"fr":"Débloquer"
+	},
+	"LEVELSCREEN_LOCK":
+	{
+	"en":"Lock",
+	"fr":"Bloquer"
+	},
+	"LEVELSCREEN_QUIT":
+	{
+	"en":"Quit",
+	"fr":"Quitter"
+	},
+	"LEVELSCREEN_SCORE":
+	{
+	"en":"Score",
+	"fr":"Score"
+	},
+	"LABEL_UNDO":
+	{
+	"en":"Undo",
+	"fr":"Annuler"
+	},
+	"LABEL_REDO":
+	{
+	"en":"Redo",
+	"fr":"Refaire"
+	},
+	"LABEL_LANGUAGE":
+	{
+	"en":"French",
+	"fr":"Anglais"
+	}
+}
+
+
